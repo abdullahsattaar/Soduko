@@ -1,7 +1,3 @@
-# 19L-1248
-# 19L-1243
-# Artificial Intelligenoofchromoe Assignement 3 Sudoku
-
 import numpy
 import random
 
