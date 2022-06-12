@@ -1,4 +1,6 @@
 # Sudoku
-Game Implementation, AI Playing with the Genetic Algorithm.
+Game Implementation, Artificial Intelligence
+Playing with the Genetic Algorithm.
 Language:Python
 Software: Pycharm
+1 Player Game
